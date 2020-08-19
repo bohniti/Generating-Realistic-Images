@@ -1,7 +1,7 @@
 <div style="border-bottom:none;">
   <div align="center"> 
     <img style="border-bottom:none;" src="https://www.mad.tf.fau.de/files/2019/04/logo_mad.png">
-    <h1>Increasing stability for GAN training using past exploration</h1>
+    <h1>Generation of Real Looking Images Using GANs</h1>
   </div>
 </div>
 
