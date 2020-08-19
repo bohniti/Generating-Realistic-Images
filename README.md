@@ -1,18 +1,18 @@
 <div style="border-bottom:none;">
   <div align="center"> 
     <img style="border-bottom:none;" src="https://www.mad.tf.fau.de/files/2019/04/logo_mad.png">
-    <h1>Increasing stability for GAN training using past exploration</h1>
+    <h1>Generation of Real Looking Images Using GANs</h1>
   </div>
 </div>
 
-## Motivation
-Applications in the context of industry suffer always from the same curse: "Too little, too similar data". Research suggests, that Generative Adversarial Networks are a possibility to generate new (non-exisiting) data samples by using an existing data distribution. However, there exist several challanges to actually model this distribution in a stable and discriminative way. The hypothesis states, that the discriminator in a GAN only models based on the current generator and forgets all past explorations. This would mean, the performance of a discrimnator (and therfore the generator) can be improved by sampling over all past explorations of the GAN in a correct manner. This project explores this exact possibility.
+## Abstract
+Automatic image generation is a complex task with many applications in several domains such as security (e.g., gener- ating portraits from the description), styling and entertainment. In this project, advanced versions of Generative Adversarial Networks (GANs) are used to generate real images. A conditional GAN (cGAN) was implemented, followed by an evaluation with visual examination, k-nearest-Neighbours (kNN) and Fre ́chet Inception Distance (FID). The evaluation indicates that a cGAN can generate realistic images of handwritten digits. Whereas, the discussions shows that more work must be done to create realistic images from datasets which contains larger and more complex images.
 
 ## Content
 
-- Code as [iPython](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/tree/master/Code/Notebooks) 
+- Code as [iPython](https://github.com/bohniti/generation_images_gans/blob/master/generation-images-using-gans-code.ipynb) 
 - Project report as [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/tree/master/Paper)
-- Project presentation as [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/tree/master/Paper)
+- Project presentation as [PDF](https://github.com/bohniti/generation_images_gans/blob/master/generation-images-using-gans-report.ipynb.pdf)
 
 ## How do I get the code?
 
