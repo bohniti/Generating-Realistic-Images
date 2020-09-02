@@ -10,9 +10,10 @@ Automatic image generation is a complex task with many applications in several d
 
 ## Content
 
-- Code as [iPython](https://github.com/bohniti/generation_images_gans/blob/master/generation-images-using-gans-code.ipynb) 
-- Project report as [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/tree/master/Paper)
-- Project presentation as [PDF](https://github.com/bohniti/generation_images_gans/blob/master/generation-images-using-gans-report.ipynb.pdf)
+- Code as [iPython](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/blob/master/Code/Notebooks/increasing-stability-gan-training.ipynb) 
+- Project introduction as [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/blob/master/Presentations/bohnstedt_timo_MADI40SS20_midterm.pdf)
+- Project presentation as [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/tree/master/Presentations)
+- Project report as [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/increasing-stability-for-gan-training-using-past-exploration/-/blob/master/Paper/Bohnstedt_Timo_MADI40SS20_final_report.pdf)
 
 ## How do I get the code?
 
